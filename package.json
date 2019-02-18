@@ -1,0 +1,16 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "A REST API build in node using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlejoCode",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
